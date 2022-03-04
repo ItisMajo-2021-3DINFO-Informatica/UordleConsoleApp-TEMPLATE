@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UordleConsoleApp", "UordleConsoleApp\UordleConsoleApp.csproj", "{D90AD3B8-50EC-4A37-B541-4AB6F5C23A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90AD3B8-50EC-4A37-B541-4AB6F5C23A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90AD3B8-50EC-4A37-B541-4AB6F5C23A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90AD3B8-50EC-4A37-B541-4AB6F5C23A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90AD3B8-50EC-4A37-B541-4AB6F5C23A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5C7E97A-D6FA-4022-A8D0-365284FB45E4}
+	EndGlobalSection
+EndGlobal
